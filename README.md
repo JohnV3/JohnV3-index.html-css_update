@@ -13,3 +13,4 @@ This project focuses on Edward Snowden and presents a structured overview of his
 - Understanding and fixing validation warnings related to obsolete HTML attributes (no css)
 - Adjusting table formatting without using deprecated attributes
 - Making sure file paths for links and images worked correctly across pages
+# JohnV3-index.html-css_update
